@@ -1,0 +1,1 @@
+This is the final version of the algorithms. Each one has two versions: one includes a display and interface that allows trying new combinations of parameters, while the multiple_parameters version is used to test predefined parameter combinations.
